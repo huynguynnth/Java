@@ -10,9 +10,9 @@ public class part08_matrixElementsSum {
 	            if (matrix[j][i] != 0) {
 	                System.out.println(matrix[j][i]);
 	                sum += matrix[j][i];
-	            } else {
+	            } /*else {
 	                break;
-	            }
+	            } cái else này viết thêm cũng chả để làm gì?*/
 	        }
 	    }
 	    return sum;

@@ -38,6 +38,8 @@ public class part50_chessKnight {
 	        }
 	    }
 	    return count;
+	    
+	    //Nếu nhiều if vầy có thể dùng switch, hoặc tìm cách gộp code lại cho gọn
 	}
 
 }

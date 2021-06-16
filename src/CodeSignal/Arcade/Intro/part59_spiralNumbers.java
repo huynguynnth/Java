@@ -29,6 +29,8 @@ public class part59_spiralNumbers {
 	        }
 	    }
 	    return a;
+	    
+	    //ủa rồi sao cần những 4 cái loop trong khi có thể làm 2 loops?
 	}
 
 }

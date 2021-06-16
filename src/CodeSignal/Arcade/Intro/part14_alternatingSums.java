@@ -14,5 +14,7 @@ public class part14_alternatingSums {
 	    }
 	    return sum;
 	}
+	
+	//Có thể dùng % => 1 vòng lặp
 
 }

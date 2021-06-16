@@ -11,5 +11,9 @@ public class part19_areEquallyStrong {
 	    }
 	    return false;
 	}
+	
+	//hai cái if có thể combined vs nhau
+	// return ((yourLeft == friendsLeft) && (yourRight == friendsRight)) ||
+    //((yourLeft == friendsRight) && (yourRight == friendsLeft)) ;
 
 }

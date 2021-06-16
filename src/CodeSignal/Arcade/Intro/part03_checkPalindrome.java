@@ -11,4 +11,6 @@ public class part03_checkPalindrome {
 	    return true;
 	}
 	
+	//if for loop just run length/2 => reduce runtime
+	
 }
